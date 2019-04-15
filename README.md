@@ -1,5 +1,5 @@
 #  Nick Rosato
-
+![Profile Pic]()
 
 # Resume
 ## Education                           												
