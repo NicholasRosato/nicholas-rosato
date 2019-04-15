@@ -1,5 +1,5 @@
 #  Nick Rosato
-![Profile Pic]()
+![Profile Pic](https://github.com/NicholasRosato/nicholas-rosato/blob/master/Profile%20Pic.jpeg)
 
 # Resume
 ## Education                           												
