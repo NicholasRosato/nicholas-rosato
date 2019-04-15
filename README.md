@@ -7,8 +7,8 @@
 - Bachelor of Science Computer Science (__3.69 GPA__)					                                                  
 - Minor in Communication
 
-## Programming Skills | Applications of Skills										
-- C (Unix/Linux Environment): 
+## Programming Skills							
+- C: 
 >Adaptive threasholding image processing program, K-means clustering
 - Swift:
 >Magnifier Application on iOS devices
