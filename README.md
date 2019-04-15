@@ -1,10 +1,10 @@
-# nicholas rosato
-welcome to my personal site
+#  Nick Rosato
+Welcome to my Personal Site
 
-## resume
+## Resume
 ### Education                           												
 - Purdue University, West Lafayette, IN		    		                                         	                       
-- Bachelor of Science Computer Science					                                                  
+- Bachelor of Science Computer Science (__3.69 GPA__)					                                                  
 - Minor in Communication
 
 ### Programming Skills | Applications of Skills										
