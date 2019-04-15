@@ -2,7 +2,7 @@
 welcome to my personal site
 
 ## resume
-###Education                           												
+### Education                           												
 Purdue University, West Lafayette, IN		    		                                         	                        Fall 2021
 Bachelor of Science Computer Science					                                                   GPA: 3.69 / 4.00
 Minor in Communication
