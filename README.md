@@ -8,13 +8,24 @@
 - Minor in Communication
 
 ## Programming Skills | Applications of Skills										
-- C (Unix/Linux Environment) | Multiple Purdue classes with large projects
-- Swift | Magnifier Application on iOS devices
-- MATLAB | Power-Rule Derivative Calculator; NWCC Childcare Paid Time Off Calculator; Type-I Diabetes Analytics
-- Git | Establish multiple project repositories on GitHub
-- Microsoft Excel | Big data applications at General Motors
-- Java | Purdue CS 180 problem solving and object oriented programming class
-- VBA | Various Macros in Excel for General Motors groups
+- C (Unix/Linux Environment): 
+>Adaptive threasholding image processing program
+>K-means clustering
+- Swift:
+>Magnifier Application on iOS devices
+- MATLAB:
+>Power-Rule Derivative Calculator
+>NWCC Childcare Paid Time Off Calculator
+>Type-I Diabetes Analytics
+- Git: 
+>Establish multiple project repositories on GitHub
+>Create personal page using GitHub Pages
+- Microsoft Excel:
+>Big data applications at General Motors
+- Java:
+>Purdue CS 180 problem solving and object oriented programming class
+- VBA: 
+>Various Macros in Excel for General Motors groups
 ## Engineering Work & Project Experience      										
 #### General Motors | Functional Electric Architecture        		   			     
 __Co-Op__
