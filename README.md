@@ -9,23 +9,20 @@
 
 ## Programming Skills | Applications of Skills										
 - C (Unix/Linux Environment): 
->Adaptive threasholding image processing program
->K-means clustering
+>Adaptive threasholding image processing program, K-means clustering
 - Swift:
 >Magnifier Application on iOS devices
 - MATLAB:
->Power-Rule Derivative Calculator
->NWCC Childcare Paid Time Off Calculator
->Type-I Diabetes Analytics
+>Power-Rule Derivative Calculator, NWCC Childcare Paid Time Off Calculator, Type-I Diabetes Analytics
 - Git: 
->Establish multiple project repositories on GitHub
->Create personal page using GitHub Pages
+>Establish multiple project repositories on GitHub, create personal page using GitHub Pages
 - Microsoft Excel:
 >Big data applications at General Motors
 - Java:
 >Purdue CS 180 problem solving and object oriented programming class
 - VBA: 
 >Various Macros in Excel for General Motors groups
+
 ## Engineering Work & Project Experience      										
 #### General Motors | Functional Electric Architecture        		   			     
 __Co-Op__
@@ -40,7 +37,8 @@ __Software Design Lead__
 - Test application system with students that are visually impaired for feedback-based specifications
 - Nominated for leadership award for dedication, design quality, and exceeding expectations on magnifier project
 #### Purdue EPICS | Ambassador
-•	Present to multiple audiences including company representatives, prospective students, and advisors
+- Present to multiple audiences including company representatives, prospective students, and advisors
+
 ## Study Abroad Experience												
 #### Introduction to Global Engineering, Innovation and Trends	
 __Purdue Seminar for Top Engineering Prospects (STEP)__
