@@ -1,5 +1,5 @@
 #  Nick Rosato
-Welcome to my Personal Site
+
 
 # Resume
 ## Education                           												
