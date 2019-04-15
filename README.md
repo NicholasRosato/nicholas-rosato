@@ -2,12 +2,12 @@
 Welcome to my Personal Site
 
 # Resume
-### Education                           												
+## Education                           												
 - Purdue University, West Lafayette, IN		    		                                         	                       
 - Bachelor of Science Computer Science (__3.69 GPA__)					                                                  
 - Minor in Communication
 
-### Programming Skills | Applications of Skills										
+## Programming Skills | Applications of Skills										
 - C (Unix/Linux Environment) | Multiple Purdue classes with large projects
 - Swift | Magnifier Application on iOS devices
 - MATLAB | Power-Rule Derivative Calculator; NWCC Childcare Paid Time Off Calculator; Type-I Diabetes Analytics
@@ -15,7 +15,7 @@ Welcome to my Personal Site
 - Microsoft Excel | Big data applications at General Motors
 - Java | Purdue CS 180 problem solving and object oriented programming class
 - VBA | Various Macros in Excel for General Motors groups
-### Engineering Work & Project Experience      										
+## Engineering Work & Project Experience      										
 #### General Motors | Functional Electric Architecture        		   			     
 __Co-Op__
 - Analyze post-crash data to determine root cause of disabled CAN network
@@ -30,10 +30,10 @@ __Software Design Lead__
 - Nominated for leadership award for dedication, design quality, and exceeding expectations on magnifier project
 #### Purdue EPICS | Ambassador
 •	Present to multiple audiences including company representatives, prospective students, and advisors
-### Study Abroad Experience												
+## Study Abroad Experience												
 #### Introduction to Global Engineering, Innovation and Trends	
 __Purdue Seminar for Top Engineering Prospects (STEP)__
 - Exposed to global design processes in China and Japan by touring many companies and universities
 - Analyzed Chinese and Japanese products and systems to identify potential fit into US market by researching trends abroad
 
-### other facts
+# Other Facts
